@@ -9,7 +9,6 @@ Node.js and MongoDB, and a frontend using React with CSS.
 - **Environment Variables**: Managed using Dotenv.
 - **CORS Enabled**: Cross-Origin Resource Sharing (CORS) is enabled to allow interaction between the frontend and backend.
 - **Development Server**: Nodemon is used to automatically restart the server on code changes.
-- **API Testing**: Postman is used for testing API endpoints.
 - **Frontend Development**: The frontend is developed using React with CSS.
 - **Code Quality**: ESLint is configured to maintain code quality and consistency.
 ## Technologies Used
@@ -61,3 +60,7 @@ Node.js and MongoDB, and a frontend using React with CSS.
 ESLint is used to ensure the code follows best practices and maintains consistency. To check for linting issues, run:
 ```bash
 npm run lin
+
+
+
+
