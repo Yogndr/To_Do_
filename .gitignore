@@ -1,6 +1,7 @@
 # Logsgd
 backend/node_modules/
 vite_project/node_modules/
+backend/.env
 logs
 *.log
 npm-debug.log*
